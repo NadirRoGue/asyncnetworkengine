@@ -6,7 +6,7 @@ import java.nio.channels.AsynchronousServerSocketChannel;
 import java.nio.channels.AsynchronousSocketChannel;
 
 /**
- * @author BiggBoss
+ * @author Nadir Román Guerrero
  * @param <T>
  */
 public final class ConnectionManager<T extends MMOClient<?>>

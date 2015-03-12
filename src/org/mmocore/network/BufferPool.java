@@ -5,7 +5,7 @@ import java.nio.ByteOrder;
 import java.util.LinkedList;
 
 /**
- * @author BiggBoss
+ * @author Nadir Román Guerrero
  */
 final class BufferPool
 {

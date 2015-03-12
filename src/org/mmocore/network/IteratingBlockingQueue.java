@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.NoSuchElementException;
 
 /**
- * @author BiggBoss
+ * @author Nadir Román Guerrero
  * @param <T>
  */
 public final class IteratingBlockingQueue<T>

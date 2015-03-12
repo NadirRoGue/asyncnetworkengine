@@ -1,7 +1,7 @@
 package org.mmocore.network;
 
 /**
- * @author BiggBoss
+ * @author Nadir Román Guerrero
  * @param <T>
  */
 public final class ConnectionAcceptor<T extends MMOClient<?>> implements Runnable

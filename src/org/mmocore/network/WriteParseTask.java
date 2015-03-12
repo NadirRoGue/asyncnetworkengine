@@ -3,7 +3,7 @@ package org.mmocore.network;
 import java.nio.ByteBuffer;
 
 /**
- * @author BiggBoss
+ * @author Nadir Román Guerrero
  * @param <T>
  */
 public final class WriteParseTask<T extends MMOClient<?>> implements Runnable

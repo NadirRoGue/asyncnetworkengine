@@ -4,7 +4,7 @@ import java.nio.channels.AsynchronousSocketChannel;
 import java.nio.channels.CompletionHandler;
 
 /**
- * @author BiggBoss
+ * @author Nadir Román Guerrero
  * @param <T>
  */
 public final class ConnectionHandler<T extends MMOClient<?>> implements CompletionHandler<AsynchronousSocketChannel, Void>

@@ -30,7 +30,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @author KenM
- * @author BiggBoss
+ * @author Nadir Román Guerrero
  * @param <T> 
  */
 public final class Core<T extends MMOClient<?>>

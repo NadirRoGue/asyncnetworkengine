@@ -25,7 +25,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @author KenM
- * @author BiggBoss
+ * @author Nadir Román Guerrero
  * @param <T> 
  * 
  */

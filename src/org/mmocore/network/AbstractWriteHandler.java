@@ -17,7 +17,7 @@ package org.mmocore.network;
 import java.nio.channels.CompletionHandler;
 
 /**
- * @author BiggBoss
+ * @author Nadir Román Guerrero
  * @param <T> 
  */
 public abstract class AbstractWriteHandler<T extends MMOClient<?>> implements CompletionHandler<Integer, MMOConnection<T>>

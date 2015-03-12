@@ -1,7 +1,7 @@
 package org.mmocore.network;
 
 /**
- * @author BiggBoss
+ * @author Nadir Román Guerrero
  * @param <T>
  */
 public final class WriteHandler<T extends MMOClient<?>> extends AbstractWriteHandler<T>
